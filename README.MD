@@ -4,6 +4,14 @@
 
 ### pip install bluestacks5newinstances
 
+## Why do I need that? 
+
+For example, to get Magisk running without crashing the whole system
+
+[![YT](https://i.ytimg.com/vi/XvBU4TJfjds/maxresdefault.jpg)](https://www.youtube.com/watch?v=XvBU4TJfjds)
+[https://www.youtube.com/watch?v=XvBU4TJfjds]()
+
+
 
 ```python
 # Install BlueStacks 5
